@@ -1,0 +1,1 @@
+{123456:["resource A","resource B"],1234567:["resource C","resource D"]}
